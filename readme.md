@@ -15,13 +15,10 @@
     BIO
 
     I:
-
         am a:
             🖥  software engineer
             🔭  Physics undegrad from UCL (First Class Honours)
             📸  photo/videographer
-
-
         like:
             🍅  gazpacho
             🚀  space(+ships)
@@ -45,7 +42,7 @@
         hayk.earth/x                - photography project
         christodoulospanayiotou.com - website for artist based nowhere
         parkwoods.net               - website for paint and chemical industry leader
-    
+
     you can also check out my hayk.earth/resume if you'd like
 
     CONTACT
