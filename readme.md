@@ -10,7 +10,7 @@
     looking to save the world
     (or die trying)
 
-    😊🌍
+    😊 🌍
 
     BIO
 
