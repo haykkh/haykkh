@@ -18,7 +18,7 @@
         am a:
             🌍  carbon consultant
             🖥  software engineer
-            🔭  Physics undegrad from UCL (First Class Honours)
+            🔭  Physics undergrad from UCL (First Class Honours)
             📸  photo/videographer
         like:
             🍅  gazpacho
