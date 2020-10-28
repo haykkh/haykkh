@@ -17,7 +17,7 @@
     I:
         am a:
             🌍  carbon consultant
-            🖥  software engineer
+            💻  software engineer
             🔭  Physics undergrad from UCL (First Class Honours)
             📸  photo/videographer
         like:
