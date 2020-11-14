@@ -30,6 +30,7 @@
     PROJECTS
 
     I made:
+        kanach.consulting           - carbon consultancy
         hayk.earth/buchulator       - kombucha recipe calculator
         doesikeahavenewplants.today - does it?
         qSim-cpp                    - a Quantum Computer Simulator built in C++
@@ -53,3 +54,4 @@
         hayk.earth/resume
         angel.co/haykkh
         linkedin.com/in/haykkh
+        kanach.consulting/
