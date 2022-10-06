@@ -1,5 +1,3 @@
-i am old ignore me
-
     hi my name is hayk (հայկ)
     (like a hike)
 
@@ -18,9 +16,10 @@ i am old ignore me
 
     I:
         am a:
-            🌍  carbon consultant
             💻  software engineer
-            🔭  Physics undergrad from UCL (First Class Honours)
+            🌒  UC Berkeley SkyDeck accelerator alum
+            🔭  Theoretical Physics undergrad from UCL (First Class Honours)
+            🌍  carbon consultant
             📸  photo/videographer
         like:
             🍅  gazpacho
@@ -32,9 +31,9 @@ i am old ignore me
     PROJECTS
 
     I made:
-        kanach.consulting           - carbon consultancy
+        metaport.ai                 - CTO of startup from ideation to UC Berkeley SkyDeck accelerator alum (<2% acceptance rate)         
         hayk.earth/buchulator       - kombucha recipe calculator
-        doesikeahavenewplants.today - does it?
+        ikea.hayk.space             - does it?
         qSim-cpp                    - a Quantum Computer Simulator built in C++
         pytris                      - a Tetris clone built in the Pyxel engine
         chat.hayk.io                - web app that syncs with a slack bot, come chat with me!
@@ -56,4 +55,3 @@ i am old ignore me
         hayk.earth/resume
         angel.co/haykkh
         linkedin.com/in/haykkh
-        kanach.consulting/
