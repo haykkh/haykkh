@@ -34,7 +34,7 @@
         metaport.ai                 - CTO of startup from ideation to UC Berkeley SkyDeck accelerator alum (<2% acceptance rate)  
         whattheplaylist.com         - find your spotify playlists that contain a song/album/artis
         hayk.earth/buchulator       - kombucha recipe calculator
-        ikea.hayk.space             - does it?
+        ikea.hayk.space             - does ikea have new plants today? 
         qSim-cpp                    - a Quantum Computer Simulator built in C++
         pytris                      - a Tetris clone built in the Pyxel engine
         chat.hayk.io                - web app that syncs with a slack bot, come chat with me!
