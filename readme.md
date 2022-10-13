@@ -31,7 +31,8 @@
     PROJECTS
 
     I made:
-        metaport.ai                 - CTO of startup from ideation to UC Berkeley SkyDeck accelerator alum (<2% acceptance rate)         
+        metaport.ai                 - CTO of startup from ideation to UC Berkeley SkyDeck accelerator alum (<2% acceptance rate)  
+        whattheplaylist.com         - find your spotify playlists that contain a song/album/artis
         hayk.earth/buchulator       - kombucha recipe calculator
         ikea.hayk.space             - does it?
         qSim-cpp                    - a Quantum Computer Simulator built in C++
